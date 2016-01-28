@@ -24,6 +24,8 @@
     div.header{
         background-color: #262626 !important;
         border-radius: 20px !important;
+        max-width: 80em !important;
+        margin: auto !important;
     }
 
     h1, h2, h3, h4{
