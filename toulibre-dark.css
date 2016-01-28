@@ -19,6 +19,7 @@
 
         background-position: left top !important;
         color: #eee !important;
+        text-shadow: 1px 1px 1px black !important;
     }
 
     div.header{
@@ -30,6 +31,8 @@
 
     h1, h2, h3, h4{
         color: #F56B0F !important;
+        border-bottom-color: #777 !important;
+        box-shadow: 2px 2px 2px black !important;
     }
 
     div.menu a{
@@ -52,6 +55,8 @@
         background-color: rgba(245, 107, 15, 0.8) !important;
         color: #383838 !important;
         border-radius: 20px !important;
+        box-shadow: 2px 2px 2px silver !important;
+        text-shadow: 1px 1px 1px #565656 !important;
     }
 
     .inline td, .inline th{
