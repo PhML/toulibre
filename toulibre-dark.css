@@ -53,4 +53,11 @@
         color: #383838 !important;
         border-radius: 20px !important;
     }
+
+    .inline td, .inline th{
+        border: 2px ridge #777 !important;
+    }
+    .inline th{
+        color: #8195BE !important;
+    }
 }
